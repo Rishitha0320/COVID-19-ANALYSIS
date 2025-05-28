@@ -1,11 +1,5 @@
 
 
-
-Here is an enhanced and professional-looking `README.md` file for your **COVID-19 Analysis** project, styled consistently with the one for your Food Waste project:
-
----
-
-
 # 🦠 COVID-19: Impact on Global Vaccination & Mortality
 
 A data-driven analysis to explore the global effects of COVID-19 vaccination on mortality and infection rates. This project visualizes and compares trends across countries to highlight the role of vaccines in mitigating the pandemic.
