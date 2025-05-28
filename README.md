@@ -119,7 +119,7 @@ Or open directly in Google Colab.
 
 ---
 
-> 💉 Data saves lives — Let's learn from the past to protect the future!
+
 
 
 
