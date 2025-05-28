@@ -110,12 +110,6 @@ Or open directly in Google Colab.
 
 ---
 
-## 🪪 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 👩‍💻 Author
 
 **By Rishitha M**
